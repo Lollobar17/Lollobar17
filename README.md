@@ -1,14 +1,11 @@
 # Hi, I'm Lorenzo
 
 ### Languages and Technologies
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-
-### My GitHub Stats
-![Lorenzo's Stats](https://github-readme-stats.vercel.app)
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
 
 ---
-*Currently focusing on **Python** and planning to dive into **JavaScript** soon.*
+Currently focusing on **Python** and planning to dive into **JavaScript** soon.
 
 
 <!--

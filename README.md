@@ -1,4 +1,15 @@
-## Hi there 👋
+markdown
+# Hi, I'm Lorenzo! Welcome to my profile:
+
+### Languages and Technologies
+![Python](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+
+### My GitHub Stats
+![My top languages](https://github-readme-stats.vercel.app)
+
+---
+*Currently focusing on **Python** and planning to dive into **JavaScript**
 
 <!--
 **Lollobar17/Lollobar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

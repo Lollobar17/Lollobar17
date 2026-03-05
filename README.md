@@ -1,11 +1,17 @@
-# Hi, I'm Lorenzo
+# Hi, I'm Lorenzo and welcome to my profile:
 
 ### Languages and Technologies
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
+- **Python**: Currently focusing on data analysis and automation.
+- **JavaScript**: Learning the fundamentals for future web projects.
+
+### About Me
+- I’m currently working on my **Stock Market Predictor**.
+- I’m currently deepening my knowledge of **Python**.
+- Fun fact: I enjoy analyzing financial data through code.
 
 ---
-Currently focusing on **Python** and planning to dive into **JavaScript** soon.
+*Open to learning and building new things.*
+
 
 
 <!--

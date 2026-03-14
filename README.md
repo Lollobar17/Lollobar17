@@ -1,30 +1,36 @@
 # Hi, I'm Lorenzo and welcome to my profile:
 
-### Languages and Technologies
-- **Python**: Currently focusing on data analysis and automation.
-- **JavaScript**: Learning the fundamentals for future web projects.
+## Languages and Technologies
 
-### About Me
-- I’m currently working on my **Stock Market Predictor**.
-- I’m currently deepening my knowledge of **Python**.
-- Fun fact: I enjoy analyzing financial data through code.
+![Python](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Cybersecurity](https://img.shields.io)
+
+* **Python:** Currently focusing on data analysis, automation and financial modeling.
+* **JavaScript:** Learning the fundamentals for future web projects and security testing.
+
+## About Me
+
+* **Stock Market Predictor:** I am developing tools for financial forecasting and data processing.
+* **Data Analysis:** I analyze financial data through code to identify patterns and trends.
+* **Cybersecurity:** I am deepening my knowledge in information security and infrastructure protection.
+* **Learning:** Open to building new things and exploring the intersection between finance and security.
 
 ---
-*Open to learning and building new things.*
 
+## My Stats
 
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app" alt="Lorenzo Stats" height="170" />
+  <img align="left" src="https://github-readme-stats.vercel.app" alt="Top Langs" height="170" />
+</p>
 
-<!--
-**Lollobar17/Lollobar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and OS
+
+* **OS:** Kali Linux
+* **Network Security:** Nmap, Wireshark
+* **Pentesting:** Metasploit, Burp Suite

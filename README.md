@@ -2,11 +2,10 @@
 
 ## Languages and Technologies
 
-<p align="left">
-  <img src="https://img.shields.io" alt="Python" />
-  <img src="https://img.shields.io" alt="JavaScript" />
-  <img src="https://img.shields.io" alt="Cybersecurity" />
-</p>
+![Python](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Cybersecurity](https://img.shields.io)
+
 
 * **Python:** Currently focusing on data analysis, automation and financial modeling.
 * **JavaScript:** Learning the fundamentals for future web projects and security testing.

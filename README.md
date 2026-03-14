@@ -2,9 +2,11 @@
 
 ## Languages and Technologies
 
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![Cybersecurity](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io" alt="Python" />
+  <img src="https://img.shields.io" alt="JavaScript" />
+  <img src="https://img.shields.io" alt="Cybersecurity" />
+</p>
 
 * **Python:** Currently focusing on data analysis, automation and financial modeling.
 * **JavaScript:** Learning the fundamentals for future web projects and security testing.
@@ -29,8 +31,8 @@
 
 ---
 
-## Tools and OS
+## Learning Path: Tools and OS
 
-* **OS:** Kali Linux
-* **Network Security:** Nmap, Wireshark
-* **Pentesting:** Metasploit, Burp Suite
+* **OS:** Currently exploring Kali Linux for security environments.
+* **Network Security:** Studying Nmap for network scanning and Wireshark for packet analysis.
+* **Pentesting Fundamentals:** Getting familiar with Metasploit and Burp Suite basics.

@@ -2,32 +2,24 @@
 
 ## Languages and Technologies
 
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![Cybersecurity](https://img.shields.io)
-
-
-* **Python:** Currently focusing on data analysis, automation and financial modeling.
-* **JavaScript:** Learning the fundamentals for future web projects and security testing.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat&logo=hackthebox&logoColor=white)
 
 ## About Me
-
-* **Stock Market Predictor:** I am developing tools for financial forecasting and data processing.
-* **Data Analysis:** I analyze financial data through code to identify patterns and trends.
-* **Cybersecurity:** I am deepening my knowledge in information security and infrastructure protection.
-* **Learning:** Open to building new things and exploring the intersection between finance and security.
+* **Python:** Focusing on data analysis, automation and financial modeling.
+* **JavaScript:** Learning fundamentals for web projects and security testing.
+* **Stock Market Predictor:** Developing tools for financial forecasting.
+* **Cybersecurity:** Deepening knowledge in information security.
 
 ---
 
 ## My Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app" alt="Lorenzo Stats" height="170" />
-  <img align="left" src="https://github-readme-stats.vercel.app" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lollobar17&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lollobar17&layout=compact&theme=dark" height="170" />
 </p>
-
-<br clear="both" />
-
 ---
 
 ## Learning Path: Tools and OS

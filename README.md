@@ -28,12 +28,12 @@
 ##  My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lollobar17&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lollobar17&layout=compact&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lollobar17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lollobar17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF0000" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lollobar17&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lollobar17&theme=tokyonight&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 </p>
 
 ---

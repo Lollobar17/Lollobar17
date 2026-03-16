@@ -39,7 +39,7 @@
 ##  About Me
 
 * **Python:** Focusing on data analysis, automation and financial modeling.
-* **JavaScript:** Learning fundamentals for web projects and security testing.
+* **JavaScript | HTML | CSS:** Learning fundamentals for web projects and security testing.
 * **Stock Market Predictor:** Developing tools for financial forecasting.
 * **Cybersecurity:** Deepening knowledge in information security.
 * **Learning:** Exploring the intersection between finance and security.

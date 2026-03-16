@@ -66,6 +66,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+## Certifications & Learning
+
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
+
+- **AI Fluency & Workflow** — Anthropic *(in progress)*
+
+
 ---
 
 <div align="center">

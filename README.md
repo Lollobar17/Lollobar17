@@ -11,8 +11,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat&logo=hackthebox&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat&logo=hackthebox&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---

@@ -20,7 +20,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-1A1A2E?style=flat&logo=yahoo&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=flat&logo=yahoo&logoColor=white)
+
 
 
 

@@ -46,6 +46,8 @@
 * **JavaScript | HTML | CSS:** Learning fundamentals for web projects and security testing.
 * **Stock Market Predictor:** Developing tools for financial forecasting.
 * **Cybersecurity:** Deepening knowledge in information security.
+* **AI Safety & Prompt Engineering:** Designing structured XML audit frameworks 
+  for AI-generated financial content, aligned with Anthropic's 4D Framework.
 * **Learning:** Exploring the intersection between finance and security.
 
 ---

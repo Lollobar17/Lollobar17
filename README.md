@@ -26,6 +26,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
+![XML](https://img.shields.io/badge/XML-orange?logo=xml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?logo=anthropic&logoColor=white)
+![AI Safety](https://img.shields.io/badge/AI%20Safety-darkgreen?logoColor=white)
 
 
 

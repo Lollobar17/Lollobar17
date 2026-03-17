@@ -70,8 +70,15 @@
 
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 
-- **AI Fluency & Workflow** — Anthropic *(Status: Completed (100% Score))*
+- **AI Fluency & Workflow** — Anthropic *(Status: Completed)*
 - Credential: [anthropic-cert.png.pdf](https://github.com/user-attachments/files/26053880/anthropic-cert.png.pdf)
+
+Foundational certification focused on **Claude's operational frameworks** and structured prompting.
+
+- **Applied Techniques**: Context separation using XML tags and Chain of Thought (CoT).
+- **Strategy**: Implementation of the **4D Framework** (Delegation, Description, Discernment, Diligence).
+- **Safety**: Understanding Constitutional AI for reliable and ethical outputs.
+
 
 
 ---

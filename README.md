@@ -71,7 +71,7 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 
 - **AI Fluency & Workflow** — Anthropic *(Status: Completed (100% Score))*
-- Credential: [Verify it here](https://verify.skilljar.com/c/8ma8p2ix97hw)
+- Credential: 
 
 
 ---
